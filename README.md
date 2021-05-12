@@ -60,7 +60,7 @@ Ce tuto traite un projet similaire mais la seule différence est la structure DA
 Il s'agit d'un tuto à faire nécessairement!
 b. https://www.youtube.com/watch?v=nCO-myJsb2w
 Il s'agit d'une playlist de 3 vidéos qui traite un projet en utilisant le spring MVC.
-Ce qui complète le projet traité en 2.a par rapport aux outils de notre présent projet.
+Ce qui complète le projet traité en 5.a par rapport aux outils de notre présent projet.
 
 6. Regarder sur Github un projet similaire
 a. https://github.com/asrachid/MaBanque
