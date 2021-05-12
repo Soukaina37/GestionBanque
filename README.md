@@ -24,11 +24,12 @@ RESOURCES UTILES (dans le dossier "utilite"):
 -Rapport d'avancement
 
 MEMBRES DU GROUPE:
-1. TINE Ambroise Ngagne
+1. OUAJJANI Hajar
 2. RHASRI Soukaina
 3. SOUJOUD Manal
-4. Khadija
-5. Fatima
+4. ANAFLOUS Mimouna
+5. NADA
+6. TINE Ambroise Ngagne
 
 GUIDE DE TRAVAIL:
 Projet JEE:
