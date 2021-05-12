@@ -85,10 +85,10 @@ modifier le code source] et accueil admin)
 
 III. Délais (pour finir à temps)
 
-8. Nous avons jusqu'au 24 mars pour finir tout le guide
+8. Nous avons jusqu'au 24 mai pour finir tout le guide
 9. Avant l'échéance, nous devons nous rencontrer en présentiel au moins deux fois pour parler de nos 
 problèmes et de l'état d'avancement de chacun.
-10. Le 25 mars, nous devons proposer un plan de travail pour l'implémentation de notre projet
+10. Le 25 mai, nous devons proposer un plan de travail pour l'implémentation de notre projet
 11. Tous les jeudis, faire un rapport d'avancement sur Whatsapp (obligatoire pour tout le monde)
 
 REMARQUES:
